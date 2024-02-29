@@ -44,6 +44,9 @@
 - Alerts from intrusion detection systems.
 - Unusual outbound network connections.
 - Anomalies in user behavior.
+- Confirmation of unauthorized access.
+- Identification of malicious software.
+- Data encryption or deletion.
 
 ## 3) Containment, Eradication and Recovery:
 
@@ -62,10 +65,6 @@
   - Refer to relevant playbooks for step-by-step recovery processes.
   - If any other incidents are discovered during this process, relevant incident playbooks are to be initiated.
 
-**Triggers:**
-- Confirmation of unauthorized access.
-- Identification of malicious software.
-- Data encryption or deletion.
 
 ## 4) Post-Incident Activity:
 
