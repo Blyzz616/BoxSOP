@@ -46,7 +46,7 @@
 - Unresolved incidents: Incidents remaining unresolved after 48 hours trigger personal notification to Percy.
 
 
-### Sample Letter Template to the Client (Box Manufacturing):
+### Sample Letter Template to the Client (Box Manufacturing)
 
 ```
 Subject: Security Incident Notification
@@ -72,7 +72,7 @@ SOC Analyst
 jim@soc.dog
 ```
 
-### Sample Letter Template to the Third-Party Provider (External MSSP & SOC):
+### Sample Letter Template to the Third-Party Provider (External MSSP & SOC)
 
 ```
 Subject: Security Incident Response Collaboration
