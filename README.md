@@ -92,7 +92,7 @@
 
 ## Incident Response Flowchart
 
-![Playbook Flowchart](flowchart3.png)
+![Playbook Flowchart](flowchart3.png)[^2]
 
 
 ### Sample Letter Template to the Client (Box Manufacturing):
@@ -169,4 +169,5 @@ jim@soc.dog
 
 ## Citations
 
-[^1](https://www.techtarget.com/searchsecurity/tip/Incident-response-frameworks-for-enterprise-security-teams)
+[^1]: [NIST Incident Response Framework](https://www.techtarget.com/searchsecurity/tip/Incident-response-frameworks-for-enterprise-security-teams). This was used as the overarching framework to determine the four phases of the Incident Response Cycle.
+[^2]: [Lucid Flowchart creator](https://lucid.app/). Used to create the flowchart.
