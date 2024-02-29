@@ -1,32 +1,35 @@
-## Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
+# Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-### 1) Preparation:
+## 1) Preparation:
 
 - **Documentation and Contact Information:**
   - Ensure all relevant contact information is up-to-date and readily accessible.
   - Maintain a list of primary and alternate contacts including:
     - Box Manufacturing:
-      - Percy (percy@box.cat, Phone: 902 66-9999)
-      - Misha (misha@box.cat, Phone: 902 66-9999)
+      - Percy (percy@box.cat)
+      - Misha (mesha@box.cat, Phone: 902 66-9999)
       - Minka (minka@box.cat, Phone: 902 99-9999)
     - External MSSP & SOC Security Oversight:
       - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
 
-- **Escalation Procedures:**
-  - Define escalation criteria for incidents requiring urgent attention.
-  - Percy to be informed personally if:
-    - Incident is escalated or urgent.
-    - Incident remains unresolved after 48 hours.
+**Escalation Procedures:**
+
+- Define escalation criteria for incidents requiring urgent attention.
+- Percy to be informed personally if:
+  - Incident is escalated or urgent.
+  - Incident remains unresolved after 48 hours.
+- During Office Hours (9AM to 5PM AST weekdays):
+  - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
+  - Notify Misha (misha@box.cat, Phone: 902 66-9999) for any urgent incidents.
+- After Office Hours and Weekends:
+  - Notify Minka (minka@box.cat, Phone: 902 99-9999) as the alternate contact.
+  - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
+
 
 - **Playbook Access:**
   - Ensure Cat has access to all relevant playbooks and workflows for incident response.
 
-### Triggers:
-- Unusual network traffic patterns.
-- Suspicious system log entries.
-- Reports of unauthorized access attempts.
-
-### 2) Detection and Analysis:
+## 2) Detection and Analysis:
 
 - **Initial Detection:**
   - SOC monitors network, systems, and data for any suspicious activity.
@@ -34,33 +37,36 @@
 
 - **Initial Assessment:**
   - SOC performs preliminary analysis to determine the nature and severity of the incident.
-  - If necessary, refer to specific incident playbooks for detailed procedures (e.g., ransomware, malware, phishing).
+  - If necessary, refer to specific incident playbooks for detailed procedures (e.g., ransomware, malware, phishing, etc.).
 
-### Triggers:
+**Triggers:**
 - Alerts from intrusion detection systems.
 - Unusual outbound network connections.
 - Anomalies in user behavior.
 
-### 3) Containment, Eradication and Recovery:
+## 3) Containment, Eradication and Recovery:
 
 - **Containment:**
   - SOC takes immediate steps to contain the incident and prevent further damage.
   - Follow predefined containment procedures as outlined in relevant playbooks.
+  - Once conatinment is complete, procede to eradication.
 
 - **Eradication:**
   - SOC works towards removing the threat from the network and systems.
   - Implement eradication procedures as per established playbooks.
+  - Once eradicaiton is complete, procede to recovery.
 
 - **Recovery:**
   - SOC initiates recovery efforts to restore affected systems and data.
   - Refer to relevant playbooks for step-by-step recovery processes.
+  - If any other incidents are discovered during this process, relevant incident playbooks are to be initiated.
 
-### Triggers:
+**Triggers:**
 - Confirmation of unauthorized access.
 - Identification of malicious software.
 - Data encryption or deletion.
 
-### 4) Post-Incident Activity:
+## 4) Post-Incident Activity:
 
 - **Documentation and Reporting:**
   - SOC thoroughly documents all actions taken during the incident response process.
@@ -76,10 +82,7 @@
   - Update playbooks and workflows based on insights gained from the incident.
 
 - **Communication and Follow-Up:**
-  - Communicate incident resolution and any follow-up actions required to relevant stakeholders.
+  - Communicate incident resolution and any follow-up actions required to Cat.
   - Ensure Cat approves all playbooks and workflows developed or updated during the incident response process.
-
-### Triggers:
-- Completion of recovery procedures.
-- Submission of incident report.
-- Identified areas for process improvement.
+  
+## Close the Playbook for this incident.
