@@ -126,21 +126,39 @@ jim@soc.dog
 This email sent at start of incident shortly after playbook opened.
 
 ```
+Subject: Security Incident at Box Manufaturing Network
+
+Dear Cat,
+
+I hope this message finds you well.
+
+My name is Jim from the security Operations Centre. I would like to inform you of an Indication of Compromise on the Box Manufacturing network.
+
+Description of IoC:
+[Here I would provide a detailed description of Indicator of Compromise and the fact that we've opened a playbook. We would then invite her to join our effors in dealing with it.]
+
+Best regards,
+Jim,
+SOC Analyst
+jim@soc.dog
+```
+
+This email sent at start of incident within 2 days of Playbook closure.
+
+```
 Subject: Security Incident Response Collaboration
 
 Dear Cat,
 
 I hope this message finds you well.
 
-My name is Jim from the security Operations Centre. I would like to inform you of an Indication of Compromise on the Box manufacturing company.
+My name is Jim from the security Operations Centre. I would like to persoinally thank you for your invaluable input and insightful collaboration in dealing with the recent incident at the Box Manufacturing network.  You were invaluable in mitigating the impact of this incident. We appreciate your continued support in ensuring the security and resilience of their network.
 
-Description of Incident:
-[Here I would provide a detailed descripotion of Indicator of Compromise and the fact that we've opened a playbook. We eould then invite her to join our effors in dealing with it.]
-
-Your expertise and collaboration have been invaluable in mitigating the impact of this incident. We appreciate your continued support in ensuring the security and resilience of our network.
+Description of IoC:
+[Here I would provide a detailed description of the Incident. ]
 
 Best regards,
-[Your Name]
-[Your Position]
-[Contact Information]
+Jim,
+SOC Analyst
+jim@soc.dog
 ```
