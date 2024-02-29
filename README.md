@@ -1,16 +1,63 @@
-# Playbook for Cat & Box Scenario
+### Standard Operating Procedure (Playbook) for Incident Response
+
+###1. Preparation
+Ensure all necessary personnel are informed and on standby.
+Review and update contact information for key stakeholders.
+Confirm availability of necessary resources for containment and recovery.
+Validate that all monitoring systems are functioning properly.
+###2. Detection & Analysis
+Monitor network and system logs for any suspicious activity.
+Investigate any anomalies or alerts raised by the SOC.
+Perform initial analysis to determine the scope and severity of the incident.
+Collect and preserve relevant evidence for further analysis.
+###3. Containment
+Isolate affected systems or networks to prevent further damage.
+Implement temporary measures to mitigate the impact of the incident.
+Notify relevant parties about the containment measures being taken.
+###4. Eradication & Recovery
+Identify and eliminate the root cause of the incident.
+Restore affected systems and data from backups if necessary.
+Conduct thorough testing to ensure that systems are fully operational.
+Communicate progress and expected downtime to stakeholders.
+###5. Post-Incident Activity
+Conduct a comprehensive post-incident review to identify lessons learned.
+Update incident response procedures based on findings from the review.
+Provide recommendations for improving security posture to prevent future incidents.
+Document all actions taken and communicate outcomes to relevant parties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Standard Operating Procedure (Playbook) for Security Incident Response
 
 1. **Initial Detection and Assessment:**
    - The SOC monitors the network, systems, and data for any suspicious activity or potential security incidents.
    - Upon detection of an incident, the SOC initiates the incident response process.
-   - Depending on the nature of the incident, the appropriate playbook is selected for further response actions.
-      -If there is no specialised playbook for the specific incident, then this playbook contiues.
 
 2. **Incident Triage and Classification:**
    - The SOC assesses the severity and impact of the incident.
    - Incidents are classified based on severity levels such as critical, high, medium, or low.
+   - Depending on the nature of the incident, the appropriate playbook is selected for further response actions.
+      -If there is no specialised playbook for the specific incident, then this playbook contiues.
 
 3. **Notification and Escalation:**
    - If the incident is classified as critical or high, The following people are contacted:  
