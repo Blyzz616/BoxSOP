@@ -89,3 +89,7 @@
   - Ensure Cat approves all playbooks and workflows developed or updated during the incident response process.
   
 ## Close the Playbook for this incident.
+
+## Incident Response Flowchart
+
+[Playbook Flowchart](flowchart1.png)
