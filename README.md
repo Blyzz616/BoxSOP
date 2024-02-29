@@ -1,6 +1,6 @@
 # Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-## 1) Preparation:
+## 1) Preparation[1]:
 
 - **Documentation and Contact Information:**
   - Ensure all relevant contact information is up-to-date and readily accessible.
@@ -155,10 +155,18 @@ I hope this message finds you well.
 My name is Jim from the security Operations Centre. I would like to persoinally thank you for your invaluable input and insightful collaboration in dealing with the recent incident at the Box Manufacturing network.  You were invaluable in mitigating the impact of this incident. We appreciate your continued support in ensuring the security and resilience of their network.
 
 Description of IoC:
-[Here I would provide a detailed description of the Incident. ]
+[Here I would provide a detailed description of the Incident. I would include liks to the MITRE ATT&CK site as well as details regarding the findings of the incident (things like the type of attack, what variants were discorvered). I would also inform Cat of any other incidents were discovered during the process of working throughb the main incident. I would also include any lessons we have learned and how we could mitigate or prevent the incident from occuring agan in the future.]
+
+We will be updating our playbooks to include all the infomration that we learned from this incident and will be forwarding them to you for approval in due course.
+
+Once again, thank you for your help! I hope that you're having a great day!
 
 Best regards,
 Jim,
 SOC Analyst
 jim@soc.dog
 ```
+
+## Citations
+
+[^1](https://www.techtarget.com/searchsecurity/tip/Incident-response-frameworks-for-enterprise-security-teams)
