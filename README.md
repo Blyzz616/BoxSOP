@@ -1,5 +1,4 @@
-# BoxSOP
-W04D4
+# Playbook for Cat & Box Scenario
 
 ### Standard Operating Procedure (Playbook) for Security Incident Response
 
