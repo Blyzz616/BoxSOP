@@ -93,3 +93,54 @@
 ## Incident Response Flowchart
 
 ![Playbook Flowchart](flowchart3.png)
+
+
+### Sample Letter Template to the Client (Box Manufacturing):
+
+```
+Subject: Security Incident Notification
+
+Dear <clent( Percy/Misha/Minka )>,
+
+My name is Jim from the Sercurity Operations Centre. I hope this message finds you well. We wanted to inform you of a recent security incident detected within the Box Manufacturing network.
+
+Description of Incident:
+[Here would be a very brief description of the incident, including severity level, impact, and current status.]
+
+Actions Taken:
+[Here, we would include a general outline the steps taken by the SOC and our team to investigate and remediate the incident.]
+
+Next Steps:
+[And here any further actions required and expected timelines for resolution wqould be detailed]
+
+We will continue to keep you updated on the progress and appreciate your attention to this matter.
+
+Best regards,
+Jim
+SOC Analysy
+jim@soc.dog
+```
+
+### Sample Letter Template to the Third-Party Provider (External MSSP & SOC):
+
+This email sent at start of incident shortly after playbook opened.
+
+```
+Subject: Security Incident Response Collaboration
+
+Dear Cat,
+
+I hope this message finds you well.
+
+My name is Jim from the security Operations Centre. I would like to inform you of an Indication of Compromise on the Box manufacturing company.
+
+Description of Incident:
+[Here I would provide a detailed descripotion of Indicator of Compromise and the fact that we've opened a playbook. We eould then invite her to join our effors in dealing with it.]
+
+Your expertise and collaboration have been invaluable in mitigating the impact of this incident. We appreciate your continued support in ensuring the security and resilience of our network.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Contact Information]
+```
