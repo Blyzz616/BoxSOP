@@ -52,7 +52,10 @@
 
 - **Containment:**
   - SOC takes immediate steps to contain the incident and prevent further damage.
+  - Collect and preserve data.
+  - Perform Technical analysis.
   - Follow predefined containment procedures as outlined in relevant playbooks.
+  - If any new IoC, Procede to contain those assets.
   - Once conatinment is complete, procede to eradication.
 
 - **Eradication:**
