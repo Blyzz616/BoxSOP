@@ -10,7 +10,7 @@
       - Misha (misha@box.cat, Phone: 902 66-9999)
       - Minka (minka@box.cat, Phone: 902 99-9999)
     - External MSSP & SOC Security Oversight:
-      - Cat (cat@soc.cat, Phone: 902 88-1234 and Cell: 902 77-4321)
+      - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
 
 - **Escalation Procedures:**
   - Define escalation criteria for incidents requiring urgent attention.
@@ -21,6 +21,11 @@
 - **Playbook Access:**
   - Ensure Cat has access to all relevant playbooks and workflows for incident response.
 
+### Triggers:
+- Unusual network traffic patterns.
+- Suspicious system log entries.
+- Reports of unauthorized access attempts.
+
 ### 2) Detection and Analysis:
 
 - **Initial Detection:**
@@ -30,6 +35,11 @@
 - **Initial Assessment:**
   - SOC performs preliminary analysis to determine the nature and severity of the incident.
   - If necessary, refer to specific incident playbooks for detailed procedures (e.g., ransomware, malware, phishing).
+
+### Triggers:
+- Alerts from intrusion detection systems.
+- Unusual outbound network connections.
+- Anomalies in user behavior.
 
 ### 3) Containment, Eradication and Recovery:
 
@@ -44,6 +54,11 @@
 - **Recovery:**
   - SOC initiates recovery efforts to restore affected systems and data.
   - Refer to relevant playbooks for step-by-step recovery processes.
+
+### Triggers:
+- Confirmation of unauthorized access.
+- Identification of malicious software.
+- Data encryption or deletion.
 
 ### 4) Post-Incident Activity:
 
@@ -63,3 +78,8 @@
 - **Communication and Follow-Up:**
   - Communicate incident resolution and any follow-up actions required to relevant stakeholders.
   - Ensure Cat approves all playbooks and workflows developed or updated during the incident response process.
+
+### Triggers:
+- Completion of recovery procedures.
+- Submission of incident report.
+- Identified areas for process improvement.
