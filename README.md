@@ -1,56 +1,65 @@
-# Standard Operating Procedure (Playbook) for Security Incident Response
+## Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-## 1. Preparation
-### 1.1 Incident Response Team Contact Information
-- Ensure all team members have updated contact information for:
-  - Percy F. (CEO): percy@box.cat
-  - Misha F. (Shift/Production Manager): misha@box.cat, Phone: 902 66-9999
-  - Minka F. (Alternate Manager): minka@box.cat, Phone: 902 99-9999
-  - Cat (Security Consultant): cat@soc.cat, Phone: 902 88-1234 (Daytime), Cell: 902 77-4321 (After-hours/Weekend)
+### 1) Preparation:
 
-## 2. Detection & Analysis
-### 2.1 Initial Detection
-- SOC monitors network for any suspicious activity.
-- Immediate notification to Cat for analysis if any anomaly detected.
-- If incident confirmed, proceed to Containment step.
+- **Documentation and Contact Information:**
+  - Ensure all relevant contact information is up-to-date and readily accessible.
+  - Maintain a list of primary and alternate contacts including:
+    - Box Manufacturing:
+      - Percy (percy@box.cat, Phone: 902 66-9999)
+      - Misha (misha@box.cat, Phone: 902 66-9999)
+      - Minka (minka@box.cat, Phone: 902 99-9999)
+    - External MSSP & SOC Security Oversight:
+      - Cat (cat@soc.cat, Phone: 902 88-1234 and Cell: 902 77-4321)
 
-### 2.2 Analysis
-- Cat analyzes the incident to determine its severity and impact.
-- If escalated or urgent, Cat informs Percy immediately.
-- Detailed incident report and analysis to be prepared and sent to Percy and Misha.
+- **Escalation Procedures:**
+  - Define escalation criteria for incidents requiring urgent attention.
+  - Percy to be informed personally if:
+    - Incident is escalated or urgent.
+    - Incident remains unresolved after 48 hours.
 
-## 3. Containment
-### 3.1 Isolate Affected Systems
-- Upon confirmation of incident, isolate affected systems to prevent further spread.
-- Cat coordinates with IT team to implement necessary network and system controls.
+- **Playbook Access:**
+  - Ensure Cat has access to all relevant playbooks and workflows for incident response.
 
-### 3.2 Communication
-- Misha is informed of the incident and the ongoing containment efforts.
-- If escalated or urgent, Cat informs Percy directly.
+### 2) Detection and Analysis:
 
-## 4. Eradication & Recovery
-### 4.1 Identify Root Cause
-- Cat investigates to identify the root cause of the incident.
+- **Initial Detection:**
+  - SOC monitors network, systems, and data for any suspicious activity.
+  - Upon detection, SOC initiates incident response process.
 
-### 4.2 Remediation
-- Develop remediation plan and implement necessary measures to eradicate the threat.
-- Cat approves all playbooks and workflows developed for Box.
+- **Initial Assessment:**
+  - SOC performs preliminary analysis to determine the nature and severity of the incident.
+  - If necessary, refer to specific incident playbooks for detailed procedures (e.g., ransomware, malware, phishing).
 
-### 4.3 Recovery
-- Restore affected systems and data from backups if necessary.
-- Ensure all systems are functioning properly before reintegration.
+### 3) Containment, Eradication and Recovery:
 
-## 5. Post-Incident Activity
-### 5.1 Incident Report
-- Prepare a comprehensive incident report detailing the incident, response actions taken, and lessons learned.
-- Distribute the report to Percy, Misha, and relevant stakeholders for review.
+- **Containment:**
+  - SOC takes immediate steps to contain the incident and prevent further damage.
+  - Follow predefined containment procedures as outlined in relevant playbooks.
 
-### 5.2 Review and Lessons Learned
-- Conduct a post-incident review meeting with the incident response team.
-- Identify areas for improvement and update procedures accordingly.
-- Share key findings and recommendations with Box's management for future prevention.
+- **Eradication:**
+  - SOC works towards removing the threat from the network and systems.
+  - Implement eradication procedures as per established playbooks.
 
-### 5.3 Follow-Up
-- Regular follow-up with Box's management to ensure implemented measures are effective.
-- Update incident response procedures based on feedback and emerging threats.
+- **Recovery:**
+  - SOC initiates recovery efforts to restore affected systems and data.
+  - Refer to relevant playbooks for step-by-step recovery processes.
 
+### 4) Post-Incident Activity:
+
+- **Documentation and Reporting:**
+  - SOC thoroughly documents all actions taken during the incident response process.
+  - Prepare incident report detailing:
+    - Incident timeline
+    - Actions taken
+    - Impact assessment
+    - Recommendations for future prevention
+
+- **Review and Lessons Learned:**
+  - Conduct a post-incident review to analyze the effectiveness of the response.
+  - Identify lessons learned and areas for improvement.
+  - Update playbooks and workflows based on insights gained from the incident.
+
+- **Communication and Follow-Up:**
+  - Communicate incident resolution and any follow-up actions required to relevant stakeholders.
+  - Ensure Cat approves all playbooks and workflows developed or updated during the incident response process.
