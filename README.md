@@ -22,8 +22,9 @@
   - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
   - Notify Misha (misha@box.cat, Phone: 902 66-9999) for any urgent incidents.
 - After Office Hours and Weekends:
-  - Notify Minka (minka@box.cat, Phone: 902 99-9999) as the alternate contact.
   - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
+  - Notify Minka (minka@box.cat, Phone: 902 99-9999) as the alternate contact.
+
 
 
 - **Playbook Access:**
