@@ -1,6 +1,6 @@
 # Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-## 1) Preparation[1]:
+## 1) Preparation[^1]:
 
 - **Documentation and Contact Information:**
   - Ensure all relevant contact information is up-to-date and readily accessible.
