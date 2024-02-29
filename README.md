@@ -5,6 +5,8 @@
 1. **Initial Detection and Assessment:**
    - The SOC monitors the network, systems, and data for any suspicious activity or potential security incidents.
    - Upon detection of an incident, the SOC initiates the incident response process.
+   - Depending on the nature of the incident, the appropriate playbook is selected for further response actions.
+      -If there is no specialised playbook for the specific incident, then this playbook contiues.
 
 2. **Incident Triage and Classification:**
    - The SOC assesses the severity and impact of the incident.
@@ -29,7 +31,6 @@
 4. **Investigation and Remediation:**
    - The SOC coordinates with Cat to gather detailed information about the incident, including its cause, impact, and potential remediation steps.
    - Cat evaluates the incident and approves appropriate remediation actions.
-   - Playbooks and workflows developed for incident remediation are shared with Cat for approval before implementation.
 
 5. **Communication and Reporting:**
    - Cat communicates incident details and remediation progress to Percy, providing updates on the situation.
