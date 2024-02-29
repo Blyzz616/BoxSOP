@@ -18,11 +18,11 @@ W04D4
     - Numbers used: 902 88-1234 & cell 902 77-4321  
     **Misha is notified _Immediately_**
       - Method: Email
-      - Address: mesha@box.cat
+      - Address: mesha@box.cat  
     **Misha is notified _Business hours (9AM to 5PM AST)_**
       - Method: Phone call
       - Number: 902 66-9999
-       - If Misha is unavailable,
+       - If Misha is unavailable:
          **Minka is contacted** as the alternate contact person.
          - Method: Phone
          - Number: 902 99-9999
