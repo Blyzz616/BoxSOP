@@ -172,3 +172,4 @@ jim@soc.dog
 [^1]: [NIST Incident Response Framework](https://www.techtarget.com/searchsecurity/tip/Incident-response-frameworks-for-enterprise-security-teams). This was used as the overarching framework to determine the four phases of the Incident Response Cycle.
 [^2]: [Lucid Flowchart creator](https://lucid.app/). Used to create the flowchart.
 [^3]: [Cybersecurity Incident and Vulnerability Response Playbooks](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf). Used as inspiration while drawing up the flowchart for this specific scenario.
+[^4]: [Computer Security Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf). Page 22 (Section 3.1.1) - Information to include in Preparation section
