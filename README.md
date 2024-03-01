@@ -1,14 +1,15 @@
 # Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-- [1_Preparation](1_Preparation)
-- [2_Detection_and_Analysis:](2_Detection_and_Analysis:)
-- [3_Containment_Eradication_and_Recovery:](3_Containment_Eradication_and_Recovery:)
-- [4_Post-Incident_Activity:](4_Post-Incident_Activity:)
-- [Close_the_Playbook_for_this_incident.](Close_the_Playbook_for_this_incident.)
-- [Incident_Response_Flowchart](Incident_Response_Flowchart)
-- [Sample_Letter_Template_to_the_Client_Box_Manufacturing](Sample_Letter_Template_to_the_Client_Box_Manufacturing)
-- [Sample_Letter_Template_to_the_Third-Party_Provider_External_MSSP_&_SOC](Sample_Letter_Template_to_the_Third-Party_Provider_External_MSSP_&_SOC)
-- [Citations](Citations)
+## Table of Contents
+- [Preparation](#1-preparation1)
+- [Detection_and_Analysis:](#2-detection-and-analysis)
+- [Containment_Eradication_and_Recovery:](#3-containment-eradication-and-recovery)
+- [Post-Incident_Activity:](#4-post-incident-activity)
+- [Close_the_Playbook_for_this_incident.](#close-the-playbook-for-this-incident)
+- [Incident_Response_Flowchart](#incident-response-flowchart)
+- [Sample_Letter_Template_to_the_Client](#sample-letter-template-to-the-client-box-manufacturing)
+- [Sample_Letter_Template_to_the_MSSP](#sample-letter-template-to-the-third-party-provider-external-mssp--soc)
+- [Citations](#citations)
 
 ## 1) Preparation[^1]:
 
