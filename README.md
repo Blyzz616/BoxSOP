@@ -10,7 +10,7 @@
 - [Sample Email Template_to_the_Client](#sample-letter-template-to-the-client-box-manufacturing)
 - [Sample Email Template_to_the_MSSP](#sample-letter-template-to-the-third-party-provider-external-mssp--soc)
   - [Sample Email Sent at start of Incident](#this-email-sent-at-start-of-incident-shortly-after-playbook-opened)
-  - [Sample Email Sent at start of Incident]()
+  - [Sample Email Sent at start of Incident](#this-email-sent-at-start-of-incident-within-2-days-of-playbook-closure)
 - [Citations](#citations)
 
 ## 1) Preparation[^1]:
