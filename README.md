@@ -134,7 +134,7 @@ jim@soc.dog
 
 ### Sample Letter Template to the Third-Party Provider (External MSSP & SOC):
 
-This email sent at start of incident shortly after playbook opened.
+#### This email sent at start of incident shortly after playbook opened.
 
 ```
 Subject: Security Incident at Box Manufaturing Network
@@ -154,7 +154,7 @@ SOC Analyst
 jim@soc.dog
 ```
 
-This email sent at start of incident within 2 days of Playbook closure.
+#### This email sent at start of incident within 2 days of Playbook closure.
 
 ```
 Subject: Security Incident Response Collaboration
