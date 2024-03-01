@@ -1,7 +1,5 @@
 # Standard Operating Procedure (Playbook) for Cybersecurity Incident Response
 
-- [Standard_Operating_Procedure_Playbook_for_Cybersecurity_Incident_Response](Standard_Operating_Procedure_Playbook_for_Cybersecurity_Incident_Response)
-- [Table_of_Contents](Table_of_Contents)
 - [1_Preparation](1_Preparation)
 - [2_Detection_and_Analysis:](2_Detection_and_Analysis:)
 - [3_Containment_Eradication_and_Recovery:](3_Containment_Eradication_and_Recovery:)
