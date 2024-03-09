@@ -6,7 +6,7 @@ This policy is applicable to all employees, contractors, and vendors who have ac
 
 ### Retention Period
 Logs containing information such as system events and user activities, must be retained for a minimum period of twelve months from the date of creation.
-However, logs related to security incidents or audits have longer retention periods and are referenced in the [Incident Event Log Retention](policies/Incident_Event_Log_Retention.md)
+However, logs related to security incidents or audits have longer retention periods and are referenced in the [Incident Event Log Retention](policies/Incident Event Log Retention.md)
 
 ### Log Monitoring
 It is the responsibility of the IT Security team to regularly monitor, review, and analyze the logs to identify any unusual activities, security breaches, or policy violations.
