@@ -14,7 +14,7 @@ It is the responsibility of the IT Security team to regularly monitor, review, a
 Any suspicious activities detected in the logs must be reported immediately to the IT Security team for investigation and remediation.
 
 ### Backup and Storage
-All logs must be regularly backed up and stored in a secure location to prevent data loss or tampering. Backups should be tested periodically to ensure they are complete and accurate.
+All logs must be regularly backed up and stored in a secure location to prevent data loss or tampering. Backups should be tested at least once every two weeks to ensure they are complete and accurate.
 
 Physical log storage devices must be kept in a secure environment with restricted access to authorized personnel only.
 
@@ -25,7 +25,7 @@ Logs should be either shredded or permanently deleted using secure erasure metho
 Any disposal of logs must be documented and approved by the IT Security team to ensure compliance with data protection regulations.
 
 ### Compliance and Enforcement
-Non-compliance with this policy may result in disciplinary action, up to and including termination of employment.
+Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or legal action.
 All employees are required to adhere to this policy and report any concerns or violations to the IT Security team.
 
 This policy is subject to regular review and updates by the IT Security team to align with industry best practices and regulatory requirements.
