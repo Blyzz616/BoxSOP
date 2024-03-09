@@ -13,9 +13,10 @@ Upon completion of the review, the policy owner must submit a report detailing a
 
 ### Policy Updating
 If the policy approval authority approves the recommended changes, updates, or revisions, the policy owner must 
-implement the approved modifications within a specified timeframe.
+implement the approved modifications within one month unless other circumstances probibit that change. If there are circumstances preventing the implementation of the change,
+then those circumstances need to be documented and relayed to the policy approval authority and a new updated timeframe needs to be implemented.
 
-Once the updates are made, the revised policy should be communicated to all employees within the organization to ensure awareness and compliance.
+Once the updates are made, the revised policy should be communicated to all employees to swhich that policy applies to ensure awareness and compliance.
 
 ### Documentation
 All changes, updates, and revisions made to a policy must be documented and maintained in the official policy repository. 
