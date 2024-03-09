@@ -5,8 +5,19 @@ It is designed to protect the privacy and security of individuals' PII and ensur
 ### Audience
 This policy applies to all employees, contractors, and third-party vendors who handle, manage, or have access to any form of personally identifiable information within Box Manufacturing systems or premises.
 
-### Access and Handling
-Access to PII should be strictly limited to authorized personnel on a need-to-know basis for the performance of their job duties. Employees must ensure that PII is protected from unauthorized access, use, disclosure, alteration, transmission or destruction.
+### Access Authorization and Acknowledgement
+
+Before accessing personally identifiable information (PII), all employees, contractors, and third-party vendors must sign a copy of this policy to acknowledge
+their understanding of and commitment to comply with the provisions outlined herein. The signed copy of the policy will serve as acknowledgment of their responsibility for handling PII in accordance with the specified guidelines.
+
+Furthermore, all signed copies of this policy must be securely stored and maintained by the Human Resources department or another designated department responsible for personnel records.
+Access to these signed copies shall be restricted to authorized personnel only, and appropriate measures shall be implemented to prevent unauthorized access or disclosure of the signed documents.
+
+Upon signing the policy, employees, contractors, and third-party vendors shall be granted access to PII in accordance with their job responsibilities.
+Failure to sign the policy will result in the denial of access to PII until such time as the acknowledgment is provided.
+
+This addition ensures that all individuals accessing PII are aware of their responsibilities and have formally acknowledged their understanding
+and compliance with the policy. It also ensures that there is a documented record of this acknowledgment, which can be used for compliance audits and enforcement purposes.
 
 PII should only be used for legitimate business purposes and must not be disclosed to individuals or entities outside of Box Manufacturing without appropriate authorization.
 
