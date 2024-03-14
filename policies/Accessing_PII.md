@@ -1,6 +1,9 @@
 ### Scope
 This policy applies to all employees of Box Manufacturing who have access to personally identifiable information (PII) in the course of their work responsibilities.
-It is designed to protect the privacy and security of individuals' PII and ensure compliance with relevant laws and regulations. All PII is considered ```diff -TLP:RED```
+It is designed to protect the privacy and security of individuals' PII and ensure compliance with relevant laws and regulations. All PII is considered 
+```diff
+-TLP:RED
+```
 
 ### Audience
 This policy applies to all employees, contractors, and third-party vendors who handle, manage, or have access to any form of personally identifiable information within Box Manufacturing systems or premises.
