@@ -25,7 +25,7 @@ All employees conducting packet capture and network monitoring activities are re
 Regular audits may be conducted to ensure compliance with this policy and to address any gaps or issues in the implementation of network monitoring practices.
 
 ### Relevant Procedures
-- **Access Control**: Guidelines for restricting access to packet capture and network monitoring tools to authorized personnel are detailed in the Access Control Procedure document.
-- **Data Handling and Retention**: Procedures for handling and retaining network data captured during monitoring activities are outlined in the Data Handling and Retention Procedure document.
-- **Incident Reporting**: Steps for reporting suspected violations or security incidents related to network monitoring activities are documented in the Incident Reporting Procedure document.
-- **Audit and Compliance Monitoring**: Procedures for conducting regular audits to ensure compliance with network monitoring policies are specified in the Audit and Compliance Monitoring Procedure document.
+- **Access Control**: Guidelines for restricting access to packet capture and network monitoring tools to authorized personnel are detailed in the _Access Control Procedure_ document.
+- **Data Handling and Retention**: Procedures for handling and retaining network data captured during monitoring activities are outlined in the _Data Handling and Retention Procedure_ document.
+- **Incident Reporting**: Steps for reporting suspected violations or security incidents related to network monitoring activities are documented in the _Incident Reporting Procedure_ document.
+- **Audit and Compliance Monitoring**: Procedures for conducting regular audits to ensure compliance with network monitoring policies are specified in the _Audit and Compliance Monitoring Procedure_ document.
