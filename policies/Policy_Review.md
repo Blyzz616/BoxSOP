@@ -21,6 +21,6 @@ All changes, updates, and revisions made to a policy must be documented and main
 Failure to comply with the policy review and updating procedures may result in inefficiencies, inconsistencies, or non-compliance with legal requirements. Employees are expected to adhere to the established review and updating processes to uphold the integrity and effectiveness of Box Manufacturing policies.
 
 ### Relevant Procedures
-- **Policy Review Process**: Guidelines for conducting policy reviews and assessments are outlined in the Policy Review Process Procedure document.
-- **Policy Update Implementation**: Procedures for implementing approved policy updates, including documentation and communication, are specified in the Policy Update Implementation Procedure document.
-- **Non-Compliance Handling**: Steps for addressing instances of non-compliance with policy review and updating procedures are documented in the Non-Compliance Handling Procedure document.
+- **Policy Review Process**: Guidelines for conducting policy reviews and assessments are outlined in the _Policy Review Process Procedure_ document.
+- **Policy Update Implementation**: Procedures for implementing approved policy updates, including documentation and communication, are specified in the _Policy Update Implementation Procedure_ document.
+- **Non-Compliance Handling**: Steps for addressing instances of non-compliance with policy review and updating procedures are documented in the _Non-Compliance Handling Procedure_ document.
