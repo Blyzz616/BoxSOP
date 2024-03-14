@@ -27,3 +27,9 @@ All employees handling PII, including physical copies and signed documents, must
 
 ### Enforcement
 Violations of this policy may result in disciplinary action, up to and including termination of employment or legal action, to ensure compliance and protect the confidentiality of personally identifiable information.
+
+### Relevant Procedures
+- **Accessing PII**: Relevant permissions and procedures for accessing PII are outlined in the _Access Control Procedure_ document.
+- **Data Destruction**: Procedures for securely destroying data, including physical copies and electronic records, are detailed in the _Data Destruction Procedure_ document.
+- **Reporting Breaches**: Steps to report suspected or actual breaches of PII are documented in the _Incident Reporting Procedure_ document.
+- **Training**: Training schedules and topics for data protection policies are specified in the _Employee Training Program Procedure_ document.
