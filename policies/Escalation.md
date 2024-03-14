@@ -17,26 +17,20 @@ This policy applies to all employees, contractors, and third-party partners of B
    - Incident reporting platforms or ticketing systems for logging and tracking incidents.
    - Emergency communication channels for immediate response to critical incidents outside regular business hours.
 
-#### Communication Protocols
-- **Timely Reporting**: Employees must promptly report cybersecurity incidents or concerns to the appropriate escalation level following predefined reporting protocols.
-- **Clear Documentation**: Detailed documentation of incidents, including the nature of the incident, affected systems, and initial response actions, should be recorded in incident reports or incident management systems.
-- **Effective Collaboration**: Cross-functional collaboration between IT, security, and relevant business units is essential for efficient incident resolution and coordination of response efforts.
+### Communication Protocols
+Employees must report cybersecurity incidents or concerns promptly using predefined reporting protocols. It is essential to maintain detailed documentation of incidents, including affected systems and initial response actions. There should be communication between IT, the incident response team, and any relevant business units to aid in efficient incident resolution.
 
-#### Follow-Up and Resolution
-- **Incident Response Plan**: Box Manufacturing maintains an incident response plan outlining procedures for escalating, investigating, and resolving cybersecurity incidents. Employees involved in incident response activities must adhere to the guidelines outlined in the incident response plan.
-- **Post-Incident Review**: Following the resolution of a cybersecurity incident, a post-incident review should be conducted to evaluate the effectiveness of response efforts, identify lessons learned, and implement corrective actions to prevent similar incidents in the future.
+### Follow-Up and Resolution
+Box Manufacturing maintains an incident response plan outlining procedures for escalating, investigating, and resolving cybersecurity incidents. Employees involved in incident response activities must adhere to the guidelines outlined in the incident response plan. After resolving a cybersecurity incident, a post-incident review should be conducted to evaluate response effectiveness and implement corrective actions.
 
-#### Compliance and Accountability
-- **Policy Adherence**: Employees are expected to comply with this cybersecurity escalation policy and follow the prescribed escalation process to facilitate timely incident response and minimize the impact of cybersecurity threats.
-- **Responsibility and Ownership**: Managers, team leads, and designated cybersecurity personnel are responsible for overseeing the escalation process within their respective areas and ensuring that incidents are addressed promptly and effectively.
+### Compliance and Accountability
+Employees are expected to comply with this cybersecurity escalation policy and follow the prescribed escalation process. Managers and designated cybersecurity personnel are responsible for overseeing the escalation process within their areas and ensuring prompt and effective incident resolution.
 
-#### Training and Awareness
-- **Cybersecurity Awareness Training**: All employees must undergo regular cybersecurity awareness training to familiarize themselves with cybersecurity best practices, incident reporting procedures, and escalation protocols.
-- **Incident Response Drills**: Periodic incident response drills and simulations should be conducted to test the organization's readiness to handle cybersecurity incidents and validate the effectiveness of the escalation process.
+### Training and Awareness
+All employees must undergo regular cybersecurity awareness training to familiarize themselves with best practices, incident reporting procedures, and escalation protocols. Periodic incident response drills should be conducted to test readiness and validate the effectiveness of the escalation process.
 
-#### Review and Continuous Improvement
-- **Policy Review**: This cybersecurity escalation policy will be reviewed periodically to assess its effectiveness, relevance, and alignment with industry standards and regulatory requirements.
-- **Feedback Mechanisms**: Feedback from employees, incident responders, and stakeholders will be solicited to identify areas for improvement and enhance the organization's incident response capabilities.
+### Review and Continuous Improvement
+This cybersecurity escalation policy will be periodically reviewed to assess effectiveness, relevance, and alignment with industry standards. Feedback from employees and stakeholders will be solicited to identify areas for improvement and enhance incident response capabilities.
 
 #### Relevant Procedures
 - **Incident Response Plan**: Detailed procedures for escalating, investigating, and resolving cybersecurity incidents are outlined in the _Incident Response Plan_ document.
