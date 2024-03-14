@@ -1,28 +1,20 @@
 ### Scope
-This policy applies to all data collected, stored, processed, and accessed by employees of Box Manufacturing  in the course of their work duties.
-It covers data in all formats, including electronic, paper, and verbal information.
+This policy governs all data collected, stored, processed, and accessed by Box Manufacturing employees during their work duties, encompassing electronic, physical, and verbal formats.
 
 ### Audience
-This policy applies to all employees, contractors, and representatives of Box Manufacturing who handle data as part of their role.
-Compliance with this policy is mandatory for all individuals mentioned above.
+All employees, contractors, and representatives of Box Manufacturing handling data must comply with this policy without exception.
 
 ### Data Retention
-All data must be retained for the period required by relevant laws and regulations or as specified by departmental procedures.
-Data that is no longer required must be securely deleted or destroyed to prevent unauthorized access or leakage.
+Data, including customer financial records and personally identifiable information (PII), shall be retained only as long as necessary for its intended purpose, adhering to legal requirements and departmental procedures. Upon expiration of the retention period, data must be securely deleted or destroyed to prevent unauthorized access.
 
-Data retention periods may vary depending on the type of data, its sensitivity, and legal requirements.
-Employees should consult with their department heads or the Data Protection Officer for guidance on specific retention periods.
+Network and system logs will be retained for a minimum of 18 months to support troubleshooting, auditing, and security analysis.
 
 ### Data Destruction
-When data reaches the end of its retention period or is no longer needed for business purposes, it must be destroyed in a manner that ensures complete removal and prevents recovery.
-Physical documents should be shredded, and electronic data should be securely erased using approved methods.
-
-All employees are responsible for following data destruction procedures outlined in departmental guidelines to maintain data security and compliance with regulatory requirements.
+Upon reaching the end of its retention period or no longer serving business purposes, data must be thoroughly destroyed to prevent recovery. Physical documents shall be shredded, and electronic data securely erased using approved methods. Employees must adhere to departmental guidelines for proper data destruction.
 
 ### Exceptions
-In certain circumstances where data needs to be retained beyond the standard retention period, approval must be obtained from the Data Protection Officer or relevant department head.
-Such exceptions should be documented and justified to ensure transparency and accountability.
+Exceptions requiring data retention beyond standard periods necessitate approval from the Data Protection Officer or relevant department head. Documentation and justification of such exceptions are mandatory for transparency and accountability.
 
 ### Non-Compliance
-Failure to comply with the data retention and destruction policy may result in disciplinary action, up to and including termination of employment.
-Employees found to have deliberately mishandled data or failed to adhere to the policy will be subject to corrective measures in accordance with Box Manufacturing's disciplinary procedures.
+Failure to adhere to data retention and destruction policies may lead to disciplinary action, including termination or legal action. Employees deliberately mishandling data or violating policy will face corrective measures aligned with Box Manufacturing's disciplinary procedures.
+
