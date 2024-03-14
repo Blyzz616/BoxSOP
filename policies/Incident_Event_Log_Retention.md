@@ -25,7 +25,7 @@ Employees are required to comply with this policy to ensure the accurate recordi
 Any violations of this policy may result in disciplinary action, up to and including termination of employment. It is the responsibility of all employees to report any concerns or potential breaches of this policy to their supervisor or the appropriate department.
 
 ### Relevant Procedures
-- **Retention Period Compliance**: Procedures for ensuring compliance with retention periods, including extensions mandated by legal requirements, are outlined in the Retention Period Compliance Procedure document.
+- **Retention Period Compliance**: Procedures for ensuring compliance with retention periods, including extensions mandated by legal requirements, are outlined in the Incident Event Log Retention Procedure document.
 - **Access Control**: Guidelines for restricting access to incident event logs to authorized personnel are detailed in the Access Control Procedure document.
 - **Log Disposal**: Proper methods and protocols for securely disposing of incident event logs are specified in the Log Disposal Procedure document.
 - **Compliance Reporting**: Steps for reporting violations of this policy or concerns regarding incident event log handling are documented in the Compliance Reporting Procedure document.
