@@ -4,6 +4,6 @@ This playbook can be viewed [HERE](https://github.com/Blyzz616/BoxSOP/tree/main)
 
 ### Citations:
 
-SweetProcess. (2024). Sweetprocess. [https://www.sweetprocess.com/](https://www.sweetprocess.com/)
-OpenAI. (2024). ChatGPT (3.5). [https://chat.openai.com/](https://chat.openai.com/)
+SweetProcess. (2024). Sweetprocess. [https://www.sweetprocess.com/](https://www.sweetprocess.com/)  
+OpenAI. (2024). ChatGPT (3.5). [https://chat.openai.com/](https://chat.openai.com/)  
 Franks, L. (2024, March 14). Escalation Research Discussion [Lecture].
