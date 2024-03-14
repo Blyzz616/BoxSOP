@@ -1,12 +1,12 @@
 ### Scope
-This policy applies to all employees of Box Manufacturing who handle sensitive data, and it is designed to govern the retention of logs created during daily operations to ensure security and compliance.
+This policy applies to all employees of Box Manufacturing who handle sensitive data, governing the retention of logs created during daily operations to ensure security and compliance.
 
 ### Audience
 This policy is applicable to all employees, contractors, and vendors who have access to Box Manufacturing's information systems and data.
 
 ### Retention Period
-Logs containing information such as system events and user activities, must be retained for a minimum period of twelve months from the date of creation.
-However, logs related to security incidents or audits have longer retention periods and are referenced in the [Incident Event Log Retention](https://github.com/Blyzz616/BoxSOP/blob/main/policies/Incident_Event_Log_Retention.md)
+Logs containing information such as system events and user activities must be retained for a minimum period of eighteen months from the date of creation.
+However, logs related to security incidents or audits have longer retention periods and are referenced in the [Incident Event Log Retention Procedure](https://github.com/Blyzz616/BoxSOP/blob/main/policies/Incident_Event_Log_Retention.md).
 
 ### Log Monitoring
 It is the responsibility of the IT Security team to regularly monitor, review, and analyze the logs to identify any unusual activities, security breaches, or policy violations.
@@ -28,4 +28,9 @@ Any disposal of logs must be documented and approved by the IT Security team to 
 Non-compliance with this policy may result in disciplinary action, up to and including termination of employment or legal action.
 All employees are required to adhere to this policy and report any concerns or violations to the IT Security team.
 
-This policy is subject to regular review and updates by the IT Security team to align with industry best practices and regulatory requirements.
+### Relevant Procedures
+- **Incident Event Log Retention**: Procedures for retaining logs related to security incidents or audits are detailed in the Incident Event Log Retention Procedure document.
+- **Log Backup and Storage**: Guidelines for backing up and storing logs securely are outlined in the Log Backup and Storage Procedure document.
+- **Log Disposal**: Proper methods and protocols for disposing of logs at the end of the retention period are specified in the Log Disposal Procedure document.
+- **Compliance Monitoring**: Steps for monitoring compliance with log retention policies and enforcing disciplinary actions are documented in the Compliance Monitoring Procedure document.
+
