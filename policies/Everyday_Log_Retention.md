@@ -29,8 +29,7 @@ Non-compliance with this policy may result in disciplinary action, up to and inc
 All employees are required to adhere to this policy and report any concerns or violations to the IT Security team.
 
 ### Relevant Procedures
-- **Incident Event Log Retention**: Procedures for retaining logs related to security incidents or audits are detailed in the Incident Event Log Retention Procedure document.
-- **Log Backup and Storage**: Guidelines for backing up and storing logs securely are outlined in the Log Backup and Storage Procedure document.
-- **Log Disposal**: Proper methods and protocols for disposing of logs at the end of the retention period are specified in the Log Disposal Procedure document.
-- **Compliance Monitoring**: Steps for monitoring compliance with log retention policies and enforcing disciplinary actions are documented in the Compliance Monitoring Procedure document.
+- **Log Backup and Storage**: Guidelines for backing up and storing logs securely are outlined in the _Log Backup and Storage Procedure_ document.
+- **Log Disposal**: Proper methods and protocols for disposing of logs at the end of the retention period are specified in the _Log Disposal Procedure_ document.
+- **Compliance Monitoring**: Steps for monitoring compliance with log retention policies and enforcing disciplinary actions are documented in the _Compliance Monitoring Procedure_ document.
 
