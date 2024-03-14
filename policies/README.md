@@ -15,5 +15,5 @@ This playbook can be viewed [HERE](https://github.com/Blyzz616/BoxSOP/tree/main)
 
 SweetProcess. (2024). Sweetprocess. [https://www.sweetprocess.com/](https://www.sweetprocess.com/)  
 OpenAI. (2024). ChatGPT (3.5). [https://chat.openai.com/](https://chat.openai.com/)  
-Franks, L. (2024, March 14). Escalation Research Discussion [Lecture](https://cyber.compass.lighthouselabs.ca/p/2/activities/2984/lectures/649).
+Franks, L. (2024, March 14). Escalation Research Discussion [Lecture](https://cyber.compass.lighthouselabs.ca/p/2/activities/2984/lectures/649).  
 Information and Privacy Commissioner of Ontario (n.d.). Collection, use, and disclosure of personal information - IPC. Information ans Privacy Commissioner of Ontario. Retrieved March 14, 2024, from [https://www.ipc.on.ca/privacy-organizations/collection-use-and-disclosure-of-personal-information/](https://www.ipc.on.ca/privacy-organizations/collection-use-and-disclosure-of-personal-information/)
