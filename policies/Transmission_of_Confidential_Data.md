@@ -7,7 +7,7 @@ This policy applies to all employees, contractors, and third-party partners of B
 ### Handling TLP:RED Information
 Employees must strictly adhere to the TLP:RED classification when handling sensitive information. Access to TLP:RED data is restricted to authorized personnel only and should not be disclosed to individuals without proper clearance.
 
-### All communications and transmissions involving TLP:RED information must be encrypted and securely transferred following the company's encryption guidelines.
+All communications and transmissions involving TLP:RED information must be encrypted and securely transferred following the company's encryption guidelines.
 
 ### Storage and Disposal
 TLP:RED information should be stored in approved secure locations or encrypted devices. Physical documents or digital files containing TLP:RED data should be disposed of securely through approved shredding or digital wiping methods.
@@ -23,3 +23,10 @@ Employees are encouraged to seek clarification or guidance from the security tea
 Any violation or breach of this policy may result in disciplinary action, including but not limited to warnings, suspension, termination, or legal action as deemed necessary by Box Manufacturing's management and compliance teams.
 
 It is the responsibility of all employees to ensure compliance with this policy regarding TLP:RED information to maintain the confidentiality and integrity of sensitive data.
+
+### Relevant Procedures
+- **Encryption Guidelines**: Guidelines for encrypting and securely transferring TLP:RED information are outlined in the Encryption Guidelines Procedure document.
+- **Storage and Disposal Protocol**: Procedures for storing and securely disposing of TLP:RED information are specified in the Storage and Disposal Protocol Procedure document.
+- **Incident Reporting and Handling**: Steps for reporting and handling incidents involving loss, theft, or unauthorized disclosure of TLP:RED information are documented in the Incident Reporting and Handling Procedure document.
+- **Training Program**: Details of the mandatory training program for handling TLP:RED data are provided in the Training Program Procedure document.
+- **Non-Compliance Handling**: Steps for addressing instances of non-compliance with the TLP:RED policy are outlined in the Non-Compliance Handling Procedure document.
