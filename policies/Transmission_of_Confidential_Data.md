@@ -25,8 +25,8 @@ Any violation or breach of this policy may result in disciplinary action, includ
 It is the responsibility of all employees to ensure compliance with this policy regarding TLP:RED information to maintain the confidentiality and integrity of sensitive data.
 
 ### Relevant Procedures
-- **Encryption Guidelines**: Guidelines for encrypting and securely transferring TLP:RED information are outlined in the Encryption Guidelines Procedure document.
-- **Storage and Disposal Protocol**: Procedures for storing and securely disposing of TLP:RED information are specified in the Storage and Disposal Protocol Procedure document.
-- **Incident Reporting and Handling**: Steps for reporting and handling incidents involving loss, theft, or unauthorized disclosure of TLP:RED information are documented in the Incident Reporting and Handling Procedure document.
-- **Training Program**: Details of the mandatory training program for handling TLP:RED data are provided in the Training Program Procedure document.
-- **Non-Compliance Handling**: Steps for addressing instances of non-compliance with the TLP:RED policy are outlined in the Non-Compliance Handling Procedure document.
+- **Encryption Guidelines**: Guidelines for encrypting and securely transferring TLP:RED information are outlined in the _Encryption Guidelines Procedure_ document.
+- **Storage and Disposal Protocol**: Procedures for storing and securely disposing of TLP:RED information are specified in the _Storage and Disposal Protocol Procedure_ document.
+- **Incident Reporting and Handling**: Steps for reporting and handling incidents involving loss, theft, or unauthorized disclosure of TLP:RED information are documented in the _Incident Reporting and Handling Procedure_ document.
+- **Training Program**: Details of the mandatory training program for handling TLP:RED data are provided in the _Training Program Procedure_ document.
+- **Non-Compliance Handling**: Steps for addressing instances of non-compliance with the TLP:RED policy are outlined in the _Non-Compliance Handling Procedure_ document.
