@@ -20,10 +20,10 @@
   - Maintain a list of primary and alternate contacts including:
     - Box Manufacturing:
       - Percy (percy@***)
-      - Misha (mesha@***, Phone: *** ***-****)
-      - Minka (minka@***, Phone: 902 99-9999)
+      - Misha (mesha@***, Phone: *** *** ****)
+      - Minka (minka@***, Phone: *** *** ****)
     - External MSSP & SOC Security Oversight:
-      - Cat (cat@***, Phone: 902 88-1234 or Cell: 902 77-4321)
+      - Cat (cat@***, Phone: *** *** **** or Cell: *** *** ****)
 
 **Escalation Procedures:**
 
@@ -32,11 +32,11 @@
   - Incident is escalated or urgent.
   - Incident remains unresolved after 48 hours.
 - During Office Hours (9AM to 5PM AST weekdays):
-  - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
-  - Notify Misha (misha@box.cat, Phone: 902 66-9999) for any urgent incidents.
+  - Cat (cat@***, Phone: *** *** **** or Cell: *** *** ****)
+  - Notify Misha (misha@***, Phone: 902 66-9999) for any urgent incidents.
 - After Office Hours and Weekends:
-  - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
-  - Notify Minka (minka@box.cat, Phone: 902 99-9999) as the alternate contact.
+  - Cat (cat@***, Phone: *** *** **** or Cell: *** *** ****)
+  - Notify Minka (minka@***, Phone: *** *** ****) as the alternate contact.
 
 
 
@@ -131,7 +131,7 @@ We will continue to keep you updated on the progress and appreciate your attenti
 Best regards,
 Jim
 SOC Analysy
-jim@soc.dog
+jim@***
 ```
 
 ### Sample Letter Template to the Third-Party Provider (External MSSP & SOC):
@@ -153,7 +153,7 @@ Description of IoC:
 Best regards,
 Jim,
 SOC Analyst
-jim@soc.dog
+jim@***
 ```
 
 #### This email sent at start of incident within 2 days of Playbook closure.
@@ -177,7 +177,7 @@ Once again, thank you for your help! I hope that you're having a great day!
 Best regards,
 Jim,
 SOC Analyst
-jim@soc.dog
+jim@***
 ```
 
 ## Citations
