@@ -1,4 +1,4 @@
-This set of policies is based on the playbook done for the W04D4 Project "Playbook for Cat & Box Scenario".
+This set of policies is based on the playbook done for the Playbook for Cat & Box Scenario.
 
 - [Accessing Personally Identifiable Information (PII)](https://github.com/Blyzz616/BoxSOP/blob/main/policies/Accessing_PII.md)
 - [Data Retention & Destruction](https://github.com/Blyzz616/BoxSOP/blob/main/policies/Data_Retention_%26_Destruction.md)
