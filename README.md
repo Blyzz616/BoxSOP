@@ -33,7 +33,7 @@
   - Incident remains unresolved after 48 hours.
 - During Office Hours (9AM to 5PM AST weekdays):
   - Cat (cat@***, Phone: *** *** **** or Cell: *** *** ****)
-  - Notify Misha (misha@***, Phone: 902 66-9999) for any urgent incidents.
+  - Notify Misha (misha@***, Phone: *** *** ****) for any urgent incidents.
 - After Office Hours and Weekends:
   - Cat (cat@***, Phone: *** *** **** or Cell: *** *** ****)
   - Notify Minka (minka@***, Phone: *** *** ****) as the alternate contact.
