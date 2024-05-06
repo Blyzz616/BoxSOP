@@ -19,11 +19,11 @@
   - Ensure all relevant contact information is up-to-date and readily accessible.
   - Maintain a list of primary and alternate contacts including:
     - Box Manufacturing:
-      - Percy (percy@box.cat)
-      - Misha (mesha@box.cat, Phone: 902 66-9999)
-      - Minka (minka@box.cat, Phone: 902 99-9999)
+      - Percy (percy@***)
+      - Misha (mesha@***, Phone: *** ***-****)
+      - Minka (minka@***, Phone: 902 99-9999)
     - External MSSP & SOC Security Oversight:
-      - Cat (cat@soc.cat, Phone: 902 88-1234 or Cell: 902 77-4321)
+      - Cat (cat@***, Phone: 902 88-1234 or Cell: 902 77-4321)
 
 **Escalation Procedures:**
 
